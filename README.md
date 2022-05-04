@@ -2,6 +2,8 @@
 
 ## Zadání
 
+[Zadání](zadani.pdf)
+
 Předpokládejme databázi studentů univerzity, kde každý student má svoje identifikační číslo, jméno,
 příjmení a datum narození. Každý student může dostat libovolný počet známek (standardní
 známkování 1 až 5), z nějž je počítán studijní průměr. Existují tři skupiny studentů:
