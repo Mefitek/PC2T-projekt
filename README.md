@@ -1,6 +1,6 @@
 # PC2T-projekt
 
-## [Zadání](zadani.pdf)
+## [Zadání](Zadání samostatného projektu 2022.pdf)
 
 Předpokládejme databázi studentů univerzity, kde každý student má svoje identifikační číslo, jméno,
 příjmení a datum narození. Každý student může dostat libovolný počet známek (standardní
